@@ -1,4 +1,4 @@
-# Stock-Prediction-using-Pyhton
+# Stock Market using Pyhton
 In this project, I delve into the realm of finance, specifically analyzing data from tech giants such as Apple, Google, Amazon, and Microsoft.
 
 ## Project Highlights:
